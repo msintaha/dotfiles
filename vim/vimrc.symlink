@@ -53,7 +53,7 @@ nmap <silent> <A-Right> :wincmd l<CR>
 " Theme
 syntax enable
 set bg=dark
-colorscheme solarized
+colorscheme koehler
 set foldmethod=marker
 
 " auto-insert matching brackets {{{
