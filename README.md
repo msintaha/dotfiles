@@ -1,1 +1,2 @@
-Run ./bootstrap in terminal
+### Instructions
+Run `./bootstrap` in terminal
